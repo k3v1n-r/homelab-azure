@@ -8,8 +8,7 @@ This guide walks you through setting up a home lab environment using Azure Virtu
 
 - An **Azure account**. You can start with a free account, which provides some free credits.
 - **Basic knowledge of Azure** and the **Azure Portal**.
-- **Azure CLI** (optional, but useful for managing resources from the command line).
-  
+
 ## Steps to Set Up Your Home Lab in Azure
 
 ### Step 1: Create an Azure Virtual Machine
